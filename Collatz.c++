@@ -61,8 +61,8 @@ int collatz_eval (int i, int j) {
 // collatz_print
 // -------------
 
-void collatz_print (ostream& w, int i, int j, int v) {
-    w << i << " " << j << " " << v << endl;}
+//void collatz_print (ostream& w, int i, int j, int v) {
+  //  w << i << " " << j << " " << v << endl;}
 
 // -------------
 // collatz_solve
